@@ -1,0 +1,15 @@
+header {
+    background-color: black;
+    height: 2em;
+    max-width: 100%;
+}
+
+body {
+    background-color: darkred;
+    width: 20%;
+}
+
+h1 {
+    font-size: large;
+    color: whitesmoke;
+}
